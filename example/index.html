@@ -23,8 +23,9 @@
 		var router = require('wall')();
 	  var chat = require('chat');
 
-	  router.use(chat, 'hello');
-	  router.dispatch('message', 'foo');
+	  router.use(chat);
+	  router.dispatch('message', 'self', 'foo');
+	  router.dispatch('message', 'other', 'bar');
 	</script>
 </body>
 </html>

@@ -16,17 +16,17 @@
   display: block;
 }
 
-.you {
+.other {
 	text-align: left;
 }
 
-.me {
+.self {
 	text-align:right;
 	justify-content: flex-end;
 	align-items: flex-end;
 }
 
-.me .messages {
+.self .messages {
   order: 1;
   border-bottom-right-radius: 0;
 }

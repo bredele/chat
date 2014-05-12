@@ -6,8 +6,8 @@
   "keywords": [],
   "dependencies": {
     "bredele/brickjs": "~0.3.5",
-    "bredele/wall": "~0.1.0",
-    "bredele/repit": "~0.1.2"
+    "bredele/repit": "~0.1.2",
+    "bredele/wall": "~0.1.1"
   },
   "development": {
     "bredele/wall": "~0.1.0"
