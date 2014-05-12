@@ -5,11 +5,19 @@
   "version": "0.0.0",
   "keywords": [],
   "dependencies": {
+    "bredele/brickjs": "~0.3.5",
+    "bredele/wall": "~0.1.0",
+    "bredele/repit": "~0.1.2"
   },
   "development": {
+    "bredele/wall": "~0.1.0"
   },
-  "styles" : ["chat.css"],
-  "templates" : ["chat.html"],  
+  "styles": [
+    "chat.css"
+  ],
+  "templates": [
+    "chat.html"
+  ],
   "license": "MIT",
   "main": "index.js",
   "scripts": [

@@ -1,0 +1,32 @@
+
+.chat {
+	list-style:none;
+}
+
+.item {
+  display: flex;
+}
+
+.avatar {
+  width: 40px;
+}
+
+.avatar img {
+  width: 100%;
+  display: block;
+}
+
+.you {
+	text-align: left;
+}
+
+.me {
+	text-align:right;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+.me .messages {
+  order: 1;
+  border-bottom-right-radius: 0;
+}
