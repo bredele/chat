@@ -1,0 +1,18 @@
+{
+  "name": "chat",
+  "repo": "bredele/chat",
+  "description": "Simple and reusable chat app",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "styles" : ["chat.css"],
+  "templates" : ["chat.html"],  
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
