@@ -1,7 +1,7 @@
 chat
 ====
 
-  simple chat app based on **[wall](http://github.com/bredele/wall)** and **[brick](http://github.com/bredele/brickjs)**.
+  simple and transport agnostic chat app based on **[wall](http://github.com/bredele/wall)** and **[brick](http://github.com/bredele/brickjs)**.
 
 
 ## Installation
@@ -9,7 +9,6 @@ chat
 with [component](http://github.com/component/component):
 
 	$ component install bredele/chat
-
 
 ## Usage
 
